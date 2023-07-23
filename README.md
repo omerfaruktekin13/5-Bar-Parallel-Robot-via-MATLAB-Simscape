@@ -1,1 +1,3 @@
-# 5-Bar-Parallel-Robot
+# 5 Bar Parallel Robot
+
+## Description
