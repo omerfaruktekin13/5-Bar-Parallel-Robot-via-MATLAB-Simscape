@@ -33,3 +33,6 @@
 > 4. Play Simulink model and you will see the Simscape model.
 > 5. The end-effector of the mechanism will be controlled by your mouse.
 > 6. Enjoy!
+
+## Open to Development
+Please share your comments and ideas about the project with me. Thank you for your time.
