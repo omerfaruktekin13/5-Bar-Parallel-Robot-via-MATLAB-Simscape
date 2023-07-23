@@ -3,9 +3,9 @@
 ## Project Media
 ![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/5bargif.gif "Deneme ")
 |:--:|
-| *5 Bar Parallel Robot Diagram* |
-![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/5_bar.png "Deneme ")
 | *Simulink Simscape Model* |
+![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/5_bar.png "Deneme ")
+| *5 Bar Parallel Robot Diagram* |
 ![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/simulink_model.png "Deneme ") 
 | *Simulink Diagram* |
 ![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/base.png "Deneme ") 
