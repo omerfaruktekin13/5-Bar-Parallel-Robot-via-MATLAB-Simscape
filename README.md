@@ -1,7 +1,8 @@
 # 5 Bar Parallel Robot
 
-## Project Images
-![](https://github.com/5-Bar-Parallel-Robot/media/5bargif.gif)
+## Project Media
+![Dxxxxx](https://github.com/omerfaruktekin13/5-Bar-Parallel-Robot/blob/main/media/5bargif.gif "Deneme ")
+
 ## Description
 5 bar mechanism is an efficient and simple design to observe human-robot interactions. As an actuator, brushless DC Motors or stepper motors can be chosen. 
 ## Tools and Languages
